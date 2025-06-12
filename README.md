@@ -160,7 +160,7 @@ OnlineFoodApp/
  ## 📞 Contact Information
 
   🐙 GitHub: https://github.com/pratikkhot100
+  
 
-  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
-
-  📧 Email: pratikkhot1207@gmail.com
+  💼 LinkedIn: 
+  📧 Email:lovekushgoyal04@gmail.com

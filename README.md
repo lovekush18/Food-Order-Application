@@ -153,14 +153,16 @@ OnlineFoodApp/
 	 ```mysql -u <username> -p``` (Enter Password if asked)
 
  STEP 3: Copy paste and execute the MySQL Query from the following file:-
- - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Online-Food_Application/blob/main/mysql_database.sql) 
+ - Run the Sql Query From this file: [MySQL Database](https://github.com/lovekush18/Food-Order-Application.git ) 
 
 ---
 
  ## 📞 Contact Information
 
-  🐙 GitHub: https://github.com/pratikkhot100
-  
+  🐙 GitHub:https://github.com/lovekush18/Food-Order-Application.git
 
-  💼 LinkedIn: 
+  📞Phone no: 9571221099
+  
+  💼 LinkedIn: www.linkedin.com/in/lovekush-goyal-b70825331
+
   📧 Email:lovekushgoyal04@gmail.com
